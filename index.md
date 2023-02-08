@@ -3,3 +3,5 @@
 - [Bad Time Simulator](games/sans)
 - [Crazy Roll 3D](games/roll3d)
 - [Free Tetris](games/tetris-ripoff)
+- [Flying Cube](games/flying-cube/)
+- [The Debug Room](games/debug-room/)
